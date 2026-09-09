@@ -40,3 +40,8 @@ The project analyzes:
 🎯 Objective
 
 The objective of this project was to transform raw e-commerce transaction data into an interactive dashboard and generate actionable business insights to support data-driven decision-making.
+## Dashboard Preview
+
+![Dashboard Screenshot 1](e-commerce-dashboard.png)
+
+![Dashboard Screenshot 2](e-commerce-dashboard-insights.png)
